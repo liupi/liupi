@@ -1,4 +1,4 @@
-### Hi, I'm Liudmila.
+### Hi, I'm Liudmila
 
 - I am a Software Engineer with 5+ years of professional working experience in Software Development 👩‍💻.
 - Currently, I am focused on development with Python 🐍
