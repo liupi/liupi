@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Liudmila.
+
+- I am a Software Engineer with 5+ years of professional working experience in Software Development 👩‍💻.
+- Currently, I am focused on development with Python 🐍
+- Also, I have a strong interest in Machine Learning
+- I like to play tennis 🎾
+
+### Tech stack
+Python, JavaScript, ServiceNow, SQL, HTML, CSS, React, JSON, GIT
 
 <!--
 **liupi/liupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
