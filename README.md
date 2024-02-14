@@ -6,7 +6,7 @@
 - I like to play tennis 🎾
 
 ### Tech stack
-Python, JavaScript, ServiceNow, SQL, HTML, CSS, React, JSON, GIT
+Python, JavaScript, ServiceNow, SQL, HTML, CSS, React, JSON
 
 <!--
 **liupi/liupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
