@@ -1,6 +1,6 @@
 ### Hi, I'm Liudmila
 
-- I am a Software Engineer with 5+ years of professional working experience in Software Development 👩‍💻.
+- I am a Software Engineer with 5+ years of professional working experience in Software Development 👩‍💻
 - Currently, I am focused on development with Python 🐍
 - Also, I have a strong interest in Machine Learning
 - I like to play tennis 🎾
