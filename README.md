@@ -3,6 +3,7 @@
 - I am a Software Engineer with 5+ years of professional working experience in Software Development 👩‍💻
 - Currently, I am focused on development with Python 🐍 and Go 🐿️ 
 - Also, I have a strong interest in Machine Learning
+- English level - Upper Intermediate
 - I like to play tennis 🎾
 
 ### Tech stack
