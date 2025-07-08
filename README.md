@@ -7,7 +7,7 @@
 - I like to play tennis 🎾
 
 ### Tech stack
-Python, Golang, JavaScript, SQL, React, HTML, CSS, ServiceNow, Machine Learning
+C++, Python, Golang, JavaScript, SQL, React, HTML, CSS, ServiceNow, Machine Learning
 
 <!--
 **liupi/liupi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
